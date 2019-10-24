@@ -2,7 +2,8 @@
 ## 图片插入
 
 ```
-<div align="center"> <img src="https://raw.githubusercontent.com/hwiechern/HwieBlogFiles/master/HwieBlogPics/surface_join_curve.png" width="36%" >
+<div align="center">
+<img src="https://raw.githubusercontent.com/hwiechern/HwieBlogFiles/master/HwieBlogPics/surface_join_curve.png" width="36%" >
 </div>
 ```
 
