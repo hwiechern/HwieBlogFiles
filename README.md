@@ -12,7 +12,8 @@
 ## 文件插入
 
 ```
-文件下载：[Maths Textbook For Computer Science and Machine Learning](https://github.com/hwiechern/HwieBlogFiles/raw/master/HwieBlogDocs/Maths_For_Computer_Science_and_Machine_Learning.pdf)
+文件下载：
+[Maths Textbook For Computer Science and Machine Learning](https://github.com/hwiechern/HwieBlogFiles/raw/master/HwieBlogDocs/Maths_For_Computer_Science_and_Machine_Learning.pdf)
 ```
 
 文件下载：[Maths Textbook For Computer Science and Machine Learning](https://github.com/hwiechern/HwieBlogFiles/raw/master/HwieBlogDocs/Maths_For_Computer_Science_and_Machine_Learning.pdf)
